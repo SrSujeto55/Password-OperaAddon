@@ -1,0 +1,19 @@
+{
+	"name": "Password Generator",
+	"version": "1.0",
+	"manifest_version": 3,
+
+	"description": "A random password generator",
+	"developer": { 
+        "name": "Emiliano López Prado"
+    },
+	"icons": { 
+        "16": "/media/icon_16.png",
+        "48": "/media/icon_48.png",
+        "128": "/media/icon_128.png"
+    },
+	"action": {
+        "default_popup": "popup.html",
+        "default_icon": "/media/icon_128.png"
+    }
+}
